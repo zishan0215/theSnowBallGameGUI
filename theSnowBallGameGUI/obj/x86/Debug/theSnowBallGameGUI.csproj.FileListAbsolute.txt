@@ -1,0 +1,9 @@
+c:\users\zishan\documents\visual studio 2010\Projects\theSnowBallGameGUI\theSnowBallGameGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zishan\documents\visual studio 2010\Projects\theSnowBallGameGUI\theSnowBallGameGUI\obj\x86\Debug\theSnowBallGameGUI.Form1.resources
+c:\users\zishan\documents\visual studio 2010\Projects\theSnowBallGameGUI\theSnowBallGameGUI\obj\x86\Debug\theSnowBallGameGUI.Properties.Resources.resources
+c:\users\zishan\documents\visual studio 2010\Projects\theSnowBallGameGUI\theSnowBallGameGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\zishan\documents\visual studio 2010\Projects\theSnowBallGameGUI\theSnowBallGameGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\zishan\documents\visual studio 2010\Projects\theSnowBallGameGUI\theSnowBallGameGUI\bin\Debug\theSnowBallGameGUI.exe
+c:\users\zishan\documents\visual studio 2010\Projects\theSnowBallGameGUI\theSnowBallGameGUI\bin\Debug\theSnowBallGameGUI.pdb
+c:\users\zishan\documents\visual studio 2010\Projects\theSnowBallGameGUI\theSnowBallGameGUI\obj\x86\Debug\theSnowBallGameGUI.exe
+c:\users\zishan\documents\visual studio 2010\Projects\theSnowBallGameGUI\theSnowBallGameGUI\obj\x86\Debug\theSnowBallGameGUI.pdb
